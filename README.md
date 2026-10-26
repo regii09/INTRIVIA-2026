@@ -3,7 +3,7 @@
 ## Identitas Diri 
 |Regina Nur Aini | 265150301111026 | Teknik Komputer | Cluster 4 | 
 |--------------|-----|---------------|---------| 
-| [Regina Nur Aini] | [265150301111026] | [Teknik Komputer] | [4r] | 
+| [Regina Nur Aini] | [265150301111026] | [Teknik Komputer] | [4] | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
 [kesan saya terhadap kegiatan intrivia adalah sangat seru dan penuh ilmu, saya belajar banyak hal setelah mengikuti kegiatan ini.] 
